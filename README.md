@@ -1,4 +1,4 @@
-# Fourty 4 - User Management Application
+# User Management Application
 
 A full-stack web application for user management with a Node.js/Express backend and a frontend built with modern web technologies.
 
