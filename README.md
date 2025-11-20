@@ -4,7 +4,7 @@ A full-stack web application for user management with a Node.js/Express backend 
 
 ## Project Overview
 
-Fourty 4 is a comprehensive user management system featuring:
+App is a comprehensive user management system featuring:
 - RESTful API for user operations (CRUD)
 - MongoDB database integration
 - Comprehensive error handling with async middleware
@@ -16,7 +16,7 @@ Fourty 4 is a comprehensive user management system featuring:
 ## Project Structure
 
 ```
-Fourty 4/
+App/
 ├── Backend/
 │   ├── index.js                 # Main application entry point
 │   ├── package.json             # Backend dependencies and scripts
